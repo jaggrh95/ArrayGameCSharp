@@ -16,6 +16,7 @@ namespace GameViaArraysAttempt
 
     class Program
     {
+        //kek
         static void Main(string[] args)
         {
             int[,] array = new int[Console.WindowWidth, Console.WindowWidth];
